@@ -1,0 +1,19 @@
+{
+    "subject": "Data structure",
+    "pdfs": [
+      {
+        "pdfname": "data structure_feb.pdf",
+        "path": "assets/comps/comp_pyq_sem3_2023/comp_sem3_2023_data structure_feb.pdf"
+      },
+      {
+        "pdfname": "data structure_may.pdf",
+        "path": "assets/comps/comp_pyq_sem3_2023/comp_sem3_2023_data structure_may.pdf"
+      }
+      ,
+      {
+        "pdfname": "data structure_nove.pdf",
+        "path": "assets/comps/comp_pyq_sem3_2023/comp_sem3_2023_data structure_nove.pdf"
+      }
+      
+    ]
+  }

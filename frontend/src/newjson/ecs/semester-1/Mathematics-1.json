@@ -1,0 +1,18 @@
+
+{
+    "subject": "Mathematics-1",
+    "pdfs": [
+      {
+        "pdfname": "sem1_2023_maths_feb.pdf",
+        "path": "public/assets/first_year_pyq/Engi_sem1_2023_maths_feb.pdf"
+      },
+      {
+        "pdfname": "sem1_2022_maths_jan.pdf",
+        "path": "public/assets/first_year_pyq/Engi_sem1_2022_maths_jan.pdf"
+      },
+      {
+        "pdfname": "sem1_2022_maths_dec.pdf",
+        "path": "public/assets/first_year_pyq/Engi_sem1_2022_maths_dec.pdf"
+      }
+    ]
+  }

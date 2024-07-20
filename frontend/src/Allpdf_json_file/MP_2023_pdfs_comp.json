@@ -1,0 +1,13 @@
+{
+    "subject": "Microprocessor",
+    "pdfs": [
+      {
+        "pdfname": "microprocessor_dec.pdf",
+        "path": "assets/comps/comp_pyq_sem4_2023/comp_sem4_2023_microprocessor_dece.pdf"
+      },
+      {
+        "pdfname": "microprocessor_may.pdf",
+        "path": "assets/comps/comp_pyq_sem4_2023/comp_sem4_2023_microprocessor_may.pdf"
+      }
+    ]
+  }

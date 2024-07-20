@@ -1,0 +1,12 @@
+{
+    "subject": "Math-3",
+    "pdfs": [
+      {
+        "pdfname": "maths3_jan.pdf",
+        "path": "assets/comps/comp_pyq_sem3_2023/comp_sem3_2023_maths3_jan.pdf"
+      },{
+        "pdfname": "sem4_2023_maths4_nave.pdf",
+        "path": "assets/comps/comp_pyq_sem3_2023/comp_sem3_2023_maths3_nave.pdf"
+      }
+    ]
+  }

@@ -1,0 +1,565 @@
+{
+    "semesters": {
+      "sem1_2022": [
+        {
+          "name": "Mathematics-1",
+          "viewLink": "/Maths1_2022_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Physics-1",
+          "viewLink": "/Physics1_2022_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Chemistry-1",
+          "viewLink": "/Chemistry1_2022_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Mechanics",
+          "viewLink": "/Mechanics_2022_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "BEE",
+          "viewLink": "/BEE_2022_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      ],
+      "sem1_2023": [
+        {
+          "name": "Mathematics-1",
+          "viewLink": "/Maths1_2023_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Physics-1",
+          "viewLink": "/Physics1_2023_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Chemistry-1",
+          "viewLink": "/Chemistry1_2023_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Mechanics",
+          "viewLink": "/Mechanics_2023_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "BEE",
+          "viewLink": "/BEE_2023_pdf",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      
+      ],
+       "sem2_2022": [
+        {
+          "name": "Mathematics-1",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Physics-1",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Chemistry-1",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Mechanics",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "BEE",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      ],
+      "sem2_2023": [
+        {
+          "name": "Mathematics-1",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Physics-1",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Chemistry-1",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Mechanics",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "BEE",
+          "viewLink": "#",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      
+      ]
+      ,
+      "sem3_2022": [
+        {
+          "name": "Mathematics-3",
+          "viewLink": "/Maths3_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Strength of materials",
+          "viewLink": "/SOM_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Production process",
+          "viewLink": "/PP_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Material metallergy",
+          "viewLink": "/MM_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Thermodynamics",
+          "viewLink": "/Thermo_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      ],
+      "sem3_2023": [
+        {
+          "name": "Mathematics-3",
+          "viewLink": "/Maths3_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Strength of materials",
+          "viewLink": "/SOM_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Production process",
+          "viewLink": "/PP_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Material metallergy",
+          "viewLink": "/MM_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Thermodynamics",
+          "viewLink": "/Thermo_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      
+      ]
+      ,
+      
+      "sem4_2022": [
+        {
+          "name": "Mathematics-4",
+          "viewLink": "/Maths4_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Fluid mechanics",
+          "viewLink": "/FM_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Kinamatics of machinery",
+          "viewLink": "/KOM_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "CAD/CAM",
+          "viewLink": "/CAD_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Industrial electronics",
+          "viewLink": "/IE_2022_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      ],
+      "sem4_2023": [
+        {
+          "name": "Mathematics-4",
+          "viewLink": "/Maths4_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Fluid mechanics",
+          "viewLink": "/FM_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Kinamatics of machinery",
+          "viewLink": "/KOM_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "CAD/CAM",
+          "viewLink": "/CAD_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        },
+        {
+          "name": "Industrial electronics",
+          "viewLink": "/IE_2023_pdfs_mech",
+          "downloadLink": "#",
+          "answersLink": "#"
+        }
+      ],
+      "sem5_2022": [
+       {
+         "name": "MM&C",
+         "viewLink": "/MMC_2022_pdfs_mech",
+         "downloadLink": "#",
+         "answersLink": "#"
+       },
+       {
+         "name": "Thermal Engineering",
+         "viewLink": "/TE_2022_pdfs_mech",
+         "downloadLink": "#",
+         "answersLink": "#"
+       },
+       {
+         "name": "Dynamics of machinery",
+         "viewLink": "/DOM_2022_pdfs_mech",
+         "downloadLink": "#",
+         "answersLink": "#"
+       },
+       {
+         "name": "Statical technique",
+         "viewLink": "/ST_2022_pdfs_mech",
+         "downloadLink": "#",
+         "answersLink": "#"
+       },
+       {
+         "name": "VS&D",
+         "viewLink": "/VSD_2022_pdfs_mech",
+         "downloadLink": "#",
+         "answersLink": "#"
+       },
+       {
+         "name": "Finite element analysis",
+         "viewLink": "/FEA_2022_pdfs_mech",
+         "downloadLink": "#",
+         "answersLink": "#"
+       }
+     ],
+     "sem5_2023": [
+      {
+        "name": "MM&C",
+        "viewLink": "/MMC_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Thermal Engineering",
+        "viewLink": "/TE_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Dynamics of machinery",
+        "viewLink": "/DOM_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Statical technique",
+        "viewLink": "/ST_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "VS&D",
+        "viewLink": "/VSD_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Finite element analysis",
+        "viewLink": "/FEA_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      }
+     
+     ]
+     ,
+     
+     "sem6_2022": [
+      {
+        "name": "HVAR",
+        "viewLink": "/HVAR_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Atomata&AI",
+        "viewLink": "/AAI_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Metal farming Technique",
+        "viewLink": "/MFT_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "EV drive & energy sources",
+        "viewLink": "/EVDES_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Machine design",
+        "viewLink": "/MD_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Tarbo machinery",
+        "viewLink": "/TM_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      }
+    ],
+       
+    "sem6_2023": [
+      {
+        "name": "HVAR",
+        "viewLink":"/HVAR_2023_pdfs_mech",
+        "downloadLink": "",
+        "answersLink": "#"
+      },
+      {
+        "name": "Atomata&AI",
+        "viewLink": "/AAI_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Metal farming Technique",
+        "viewLink": "/MFT_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "EV drive & energy sources",
+        "viewLink": "/EVDES_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Machine design",
+        "viewLink": "/MD_2023_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      },
+      {
+        "name": "Tarbo machinery",
+        "viewLink": "/TM_2022_pdfs_mech",
+        "downloadLink": "#",
+        "answersLink": "#"
+      }
+    ],     
+    "sem7_2022": [
+     {
+       "name": "Design of mechanical systems ",
+       "viewLink": "/DMS_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Logistics and supply chain management",
+       "viewLink": "/LSCM_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Vehicle system",
+       "viewLink": "/VS_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Automotive power supply",
+       "viewLink": "/APS_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Renewable energy system",
+       "viewLink": "/RES_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     }
+   ],     
+   "sem7_2023": [
+    {
+      "name": "Design of mechanical systems ",
+      "viewLink": "/DMS_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Logistics and supply chain management",
+      "viewLink": "/LSCM_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Vehicle system",
+      "viewLink": "/VS_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Automotive power supply",
+      "viewLink": "/APS_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Renewable energy system",
+      "viewLink": "/RES_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    }
+  ],
+     
+    
+    "sem8_2022": [
+     {
+       "name": "Smart materials",
+       "viewLink": "/SM_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Power engineering",
+       "viewLink": "/PE_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Project management",
+       "viewLink": "/PM_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Environmental management",
+       "viewLink": "/EM_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Design of mechanical system",
+       "viewLink": "/DOMS_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     },
+     {
+       "name": "Operations pluming & control",
+       "viewLink": "/OPC_2022_pdfs_mech",
+       "downloadLink": "#",
+       "answersLink": "#"
+     }
+   ],
+   "sem8_2023": [
+    {
+      "name": "Smart materials",
+      "viewLink": "/SM_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Power engineering",
+      "viewLink": "/PE_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Project management",
+      "viewLink": "/PM_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Environmental management",
+      "viewLink": "/EM_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Design of mechanical system",
+      "viewLink": "/DOMS_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    },
+    {
+      "name": "Operations pluming & control",
+      "viewLink": "/OPC_2023_pdfs_mech",
+      "downloadLink": "#",
+      "answersLink": "#"
+    }
+    ]
+    }
+  }
+  

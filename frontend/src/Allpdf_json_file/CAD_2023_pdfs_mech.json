@@ -1,0 +1,14 @@
+
+{
+    "subject": "CAD/CAM",
+    "pdfs": [
+      {
+        "pdfname": "CAD_dece.pdf",
+        "path": "assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_CAD-CAM_dece.pdf"
+      },
+      {
+        "pdfname": "CAD_may.pdf",
+        "path": "assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_CAD_may.pdf"
+      }
+    ]
+  }

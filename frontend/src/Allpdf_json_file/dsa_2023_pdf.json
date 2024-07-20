@@ -1,0 +1,21 @@
+{
+    "subject": "DSA",
+    "pdfs": [
+      {
+        "pdfname": "sem3_2023_DSA_may_(DSE).pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_DSA_may_(DSE).pdf"
+      },
+      {
+        "pdfname": "ecs_sem3_2023_DSA_feb(DSE).pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_DSA_feb(DSE).pdf"
+      },
+      {
+        "pdfname": "sem3_2023_DSA_may.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_DSA_may.pdf"
+      },
+      {
+        "pdfname": "sem3_2023_DSA_NOVE.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_DSA_nove.pdf"
+      }
+    ]
+  }

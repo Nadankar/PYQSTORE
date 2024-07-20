@@ -1,0 +1,27 @@
+[
+    
+    {
+        "image":"https://img.freepik.com/free-photo/3d-cartoon-scene-depicting-variety-people-multitasking_23-2151294451.jpg?uid=R154730000&ga=GA1.1.597258358.1705146031&semt=ais_hybrid",
+        "branch_name":"Mechanical",
+        "description":"Explore pyq to excel in Mechanical Engineering exams and master core concepts.",
+        "id":1
+    },
+    {
+        "image":"https://img.freepik.com/premium-photo/closeup-shot-skilled-repair-technician-s-hands-delicately-soldering-circuit-board_891336-54012.jpg?uid=R154730000&ga=GA1.1.597258358.1705146031&semt=ais_hybrid",
+        "branch_name":"ECS",
+        "description":"Explore pyq to excel in ECS Engineering exams and master core concepts.",
+        "id":2
+    },
+    {
+        "image":"https://img.freepik.com/premium-vector/young-men-working-laptop-home-concept-web-development-programmer-coding-website_530733-3076.jpg?uid=R154730000&ga=GA1.1.597258358.1705146031&semt=ais_hybrid",
+        "branch_name":"Computer",
+        "description":"Explore pyq to excel in Computer Engineering exams and master core concepts.",
+        "id":3
+    },
+    {
+        "image":"https://img.freepik.com/free-vector/hand-drawn-ai-alignment-illustration_52683-156464.jpg?uid=R154730000&ga=GA1.1.597258358.1705146031&semt=ais_hybrid",
+        "branch_name":"AI&DS",
+        "description":"Explore pyq to excel in AI&DS Engineering exams and master core concepts.",
+        "id":4
+    }
+]

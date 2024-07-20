@@ -1,0 +1,13 @@
+{
+    "subject": "ML",
+    "pdfs": [
+      {
+        "pdfname": "machine learning_dec.pdf",
+        "path": "assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_machine learning_dec.pdf"
+      },
+      {
+        "pdfname": "machine learning_may.pdf",
+        "path": "assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_machine learning_may.pdf"
+      }
+    ]
+  }
