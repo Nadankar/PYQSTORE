@@ -14,9 +14,8 @@ function Table_ecs() {
                         <div className="font-bold">{subject.name}</div>
                     </div>
                 </td>
-                <td className="text-blue-500"><a href={subject.viewLink}>View PDF</a></td>
-                <td className="text-blue-500"><a href={subject.downloadLink}>Download PDF</a></td>
-                <td><a href={subject.answersLink}>Answers</a></td>
+                <td className="text-blue-500"><a href={subject.viewLink}>View PDF</a></td>   
+
             </tr>
         ));
     };
@@ -35,9 +34,8 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
-                                </tr>
+                                
+                                 </tr>
                             </thead>
                             <tbody>
                                 {renderTableRows(semesters.sem1_2022)}
@@ -57,8 +55,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                  
                                 </tr>
                             </thead>
                             <tbody>
@@ -81,8 +78,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -103,8 +99,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -127,8 +122,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -149,8 +143,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -174,8 +167,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                  
                                 </tr>
                             </thead>
                             <tbody>
@@ -196,8 +188,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -221,8 +212,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -243,8 +233,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -269,8 +258,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -291,8 +279,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -316,8 +303,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                  
                                 </tr>
                             </thead>
                             <tbody>
@@ -338,8 +324,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -363,8 +348,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -385,8 +369,7 @@ function Table_ecs() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>

@@ -3,580 +3,402 @@
       "sem1_2022": [
         {
           "name": "Mathematics-1",
-          "viewLink": "/Maths1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths1_2022_pdf" 
         },
         {
           "name": "Physics-1",
-          "viewLink": "/Physics1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics1_2022_pdf"
+         
         },
         {
           "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry1_2022_pdf"
         },
         {
           "name": "Mechanics",
-          "viewLink": "/Mechanics_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Mechanics_2022_pdf"
         },
         {
           "name": "BEE",
-          "viewLink": "/BEE_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/BEE_2022_pdf"
         } 
       ],
       "sem1_2023": [
         {
           "name": "Mathematics-1",
-          "viewLink": "/Maths1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths1_2023_pdf"
         },
         {
           "name": "Physics-1",
-          "viewLink": "/Physics1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics1_2023_pdf"
         },
         {
           "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry1_2023_pdf"
         },
         {
           "name": "Mechanics",
-          "viewLink": "/Mechanics_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Mechanics_2023_pdf"
         },
         {
           "name": "BEE",
-          "viewLink": "/BEE_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/BEE_2023_pdf"
         }
       
       ],
        "sem2_2022": [
         {
           "name": "Mathematics-2",
-          "viewLink": "/Maths2_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths2_2022_pdf"
         },
         {
           "name": "Physics-2",
-          "viewLink": "/Physics2_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics2_2022_pdf"
         },
         {
           "name": "Chemistry-2",
-          "viewLink": "/Chemistry2_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry2_2022_pdf"
         },
         {
           "name": "EG",
-          "viewLink": "/EG_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/EG_2022_pdf"
         },
         {
           "name": "PCE-1",
-          "viewLink": "/PCE1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/PCE1_2022_pdf"
         },
         {
           "name": "C-programming",
-          "viewLink": "/C_programming_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/C_programming_2022_pdf"
         }
       ],
       "sem2_2023": [
         {
           "name": "Mathematics-2",
-          "viewLink": "/Maths2_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths2_2023_pdf"
         },
         {
           "name": "Physics-2",
-          "viewLink": "/Physics2_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics2_2023_pdf"
         },
         {
           "name": "Chemistry-2",
-          "viewLink": "/Chemistry2_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry2_2023_pdf"
         },
         {
           "name": "EG",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "PCE-1",
-          "viewLink": "/PCE1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/PCE1_2023_pdf"
         },
         {
           "name": "C-programming",
-          "viewLink": "/C_programming_2023_pdf",  
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/C_programming_2023_pdf"
         }
       
       ], "sem3_2022": [
         {
           "name": "Mathematics-3",
-          "viewLink": "/Maths3_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths3_2022_pdf"
         },
         {
           "name": "DBMS",
-          "viewLink": "/DBMS_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DBMS_2022_pdf"
         },
         {
           "name": "Digital electronics",
-          "viewLink": "/DE_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DE_2022_pdf"
         },
         {
           "name": "DSA",
-          "viewLink": "/DSA_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DSA_2022_pdf"
         },
         {
           "name": "Electronic Devices",
-          "viewLink": "/ED_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ED_2022_pdf"
         }
       ],
       "sem3_2023": [
         {
           "name": "Mathematics-3",
-          "viewLink": "/Maths3_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths3_2023_pdf"
         },
         {
           "name": "DBMS",
-          "viewLink": "/DBMS_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DBMS_2023_pdf"
         },
         {
           "name": "Digital electronics",
-          "viewLink": "/DE_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DE_2023_pdf"
         },
         {
           "name": "DSA",
-          "viewLink": "/DSA_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DSA_2023_pdf"
         },
         {
           "name": "Electronic Devices",
-          "viewLink": "/ED_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ED_2023_pdf"
         }
       
       ],
       "sem4_2022": [
         {
           "name": "Mathematics-4",
-          "viewLink": "/Maths4_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths4_2022_pdf"
         },
         {
           "name": "CAI",
-          "viewLink": "/CAI_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CAI_2022_pdf"
         },
         {
           "name": "DSAT",
-          "viewLink": "/DSAT_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DSAT_2022_pdf"
         },
         {
           "name": "Electronic Circuit",
-          "viewLink": "/EC_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/EC_2022_pdf"
         },
         {
           "name": "MPMC",
-          "viewLink": "/MPMC_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/MPMC_2022_pdf"
         }
       ],
       "sem4_2023": [
         {
           "name": "Mathematics-4",
-          "viewLink": "/Maths4_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths4_2023_pdf"
         },
         {
           "name": "CAI",
-          "viewLink": "/CAI_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CAI_2023_pdf"
         },
         {
           "name": "DSAT",
-          "viewLink": "/DSAT_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DSAT_2023_pdf"
         },
         {
           "name": "Electronic Circuit",
-          "viewLink": "/EC_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/EC_2023_pdf"
         },
         {
           "name": "MPMC",
-          "viewLink": "/MPMC_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/MPMC_2023_pdf"
         }
-      
+
       ]
       ,
       "sem5_2022": [
         {
           "name": "AI&ML",
-          "viewLink": "/AI_and_ML_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/AI_and_ML_2022_pdf"
         },
         {
           "name": "Communication Engineering",
-          "viewLink": "/CE_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CE_2022_pdf"
         },
         {
           "name": "CO&A",
-          "viewLink": "/CO_and_A_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CO_and_A_2022_pdf"
         },
         {
           "name": "Softeware Engineering",
-          "viewLink": "/SE_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/SE_2022_pdf"
         },
         {
           "name": "ST&QA",
-          "viewLink": "/ST_and_QA_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ST_and_QA_2022_pdf"
         },
         {
           "name": "Web technologies",
-          "viewLink": "/Web_technologies_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Web_technologies_2022_pdf"
         }
       ],
       "sem5_2023": [
         {
           "name": "AI&ML",
-          "viewLink": "/AI_and_ML_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/AI_and_ML_2023_pdf"
         },
         {
           "name": "Communication Engineering",
-          "viewLink": "/CE_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CE_2023_pdf"
         },
         {
           "name": "CO&A",
-          "viewLink": "/CO_and_A_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CO_and_A_2023_pdf"
         },
         {
           "name": "Softeware Engineering",
-          "viewLink": "/SE_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/SE_2023_pdf"
         },
         {
           "name": "ST&QA",
-          "viewLink": "/ST_and_QA_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ST_and_QA_2023_pdf"
         },
         {
           "name": "Web technologies",
-          "viewLink": "/Web_technologies_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Web_technologies_2023_pdf"
         }
       
       ],
       "sem6_2022": [
         {
           "name": "AI",
-          "viewLink": "/AI_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/AI_2022_pdf"
         },
         {
           "name": "Computer network",
-          "viewLink": "/CN_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CN_2022_pdf"
         },
         {
           "name": "DW&M",
-          "viewLink": "/DW_and_M_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DW_and_M_2022_pdf"
         },
         {
           "name": "ES&RTOS",
-          "viewLink": "/ES_and_RTOS_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ES_and_RTOS_2022_pdf"
         },
         {
           "name": "Digital forensic",
-          "viewLink": "/DigitalForensic_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DigitalForensic_2022_pdf"
         }
         ,{
           "name": "ML",
-          "viewLink": "/ML_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ML_2022_pdf"
         }
       ],
       "sem6_2023": [
         {
           "name": "AI",
-          "viewLink": "/AI_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/AI_2023_pdf"
         },
         {
           "name": "Computer network",
-          "viewLink": "/CN_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CN_2023_pdf"
         },
         {
           "name": "DW&M",
-          "viewLink": "/DW_and_M_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DW_and_M_2023_pdf"
         },
         {
           "name": "ES&RTOS",
-          "viewLink": "/ES_and_RTOS_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ES_and_RTOS_2022_pdf"
         },
         {
           "name": "Digital forensic",
-          "viewLink": "/DigitalForensic_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DigitalForensic_2023_pdf"
         }
         ,{
           "name": "ML",
-          "viewLink": "/ML_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/ML_2023_pdf"
         }
       
       ],
       "sem7_2022": [
         {
           "name": "Big data analytics",
-          "viewLink": "/BigdataAnalytics_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/BigdataAnalytics_2022_pdf"
         },
         {
           "name": "Cloud computing",
-          "viewLink": "/CloudComputing_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CloudComputing_2022_pdf"
         },
         {
           "name": "Cyber security",
-          "viewLink": "/CyberSecurity_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CyberSecurity_2022_pdf"
         },
         {
           "name": "Deep learning",
-          "viewLink": "/DeepLearning_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DeepLearning_2022_pdf"
         },
         {
           "name": "DM_and_MM",
-          "viewLink": "/DM_and_MM_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DM_and_MM_2022_pdf"
         },
         {
           "name": "Internet of things",
-          "viewLink": "/InternetOfThings_2022_pdf",
-          "downloadLink": "",
-          "answersLink": "#"
+          "viewLink": "/InternetOfThings_2022_pdf"
         },
         {
           "name": "VLSI design",
-          "viewLink": "/VLSI_design_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/VLSI_design_2022_pdf"
         }
       ],
       "sem7_2023": [
         {
           "name": "Big data analytics",
-          "viewLink": "/BigdataAnalytics_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/BigdataAnalytics_2023_pdf"
         },
         {
           "name": "Cloud computing",
-          "viewLink": "/CloudComputing_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CloudComputing_2023_pdf"  
         },
         {
           "name": "Cyber security",
-          "viewLink": "/CyberSecurity_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/CyberSecurity_2023_pdf"
         },
         {
           "name": "Deep learning",
-          "viewLink": "/DeepLearning_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DeepLearning_2023_pdf"
         },
         {
           "name": "DM_and_MM",
-          "viewLink": "/DM_and_MM_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DM_and_MM_2023_pdf"
         },
         {
           "name": "Internet of things",
-          "viewLink": "/InternetOfThings_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/InternetOfThings_2023_pdf"
         },
         {
           "name": "VLSI design",
-          "viewLink": "/VLSI_design_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/VLSI_design_2023_pdf"
         }
       ],
       "sem8_2022": [
         {
           "name": "Mathematics-1",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "Physics-1",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "Chemistry-1",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "Mechanics",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "BEE",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         }
       ],
       "sem8_2023": [
         {
           "name": "Mathematics-1",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "Physics-1",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "Chemistry-1",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "Mechanics",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "BEE",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         }
+        
       
       ]
     }
