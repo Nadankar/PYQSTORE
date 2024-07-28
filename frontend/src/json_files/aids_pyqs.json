@@ -3,195 +3,136 @@
       "sem1_2022": [
         {
           "name": "Mathematics-1",
-          "viewLink": "/Maths1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths1_2022_pdf"
         },
         {
           "name": "Physics-1",
-          "viewLink": "/Physics1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics1_2022_pdf"
         },
         {
           "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry1_2022_pdf"
         },
         {
           "name": "Mechanics",
-          "viewLink": "/Mechanics_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Mechanics_2022_pdf"
         },
         {
           "name": "BEE",
-          "viewLink": "/BEE_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/BEE_2022_pdf"
         }
       ],
       "sem1_2023": [
         {
           "name": "Mathematics-1",
-          "viewLink": "/Maths1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths1_2023_pdf"
         },
         {
           "name": "Physics-1",
-          "viewLink": "/Physics1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics1_2023_pdf"
         },
         {
           "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry1_2023_pdf"
         },
         {
           "name": "Mechanics",
-          "viewLink": "/Mechanics_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Mechanics_2023_pdf"
         },
         {
           "name": "BEE",
-          "viewLink": "/BEE_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/BEE_2023_pdf"
         }
-      
+
       ],
        "sem2_2022": [
         {
           "name": "Mathematics-2",
-          "viewLink": "/Maths2_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths2_2022_pdf"
         },
         {
           "name": "Physics-2",
-          "viewLink": "/Physics2_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics2_2022_pdf"
         },
         {
           "name": "Chemistry-2",
-          "viewLink": "/Chemistry2_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry2_2022_pdf"
         },
         {
           "name": "EG",
-          "viewLink": "/EG_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/EG_2022_pdf"
         },
         {
           "name": "PCE-1",
-          "viewLink": "/PCE1_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/PCE1_2022_pdf"
         },
         {
           "name": "C-programming",
-          "viewLink": "/C_programming_2022_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/C_programming_2022_pdf"
         }
       ],
       "sem2_2023": [
         {
           "name": "Mathematics-2",
-          "viewLink": "/Maths2_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths2_2023_pdf"
         },
         {
           "name": "Physics-2",
-          "viewLink": "/Physics2_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Physics2_2023_pdf"
         },
         {
           "name": "Chemistry-2",
-          "viewLink": "/Chemistry2_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Chemistry2_2023_pdf"
         },
         {
           "name": "EG",
-          "viewLink": "#",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "#"
         },
         {
           "name": "PCE-1",
-          "viewLink": "/PCE1_2023_pdf",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/PCE1_2023_pdf"
+         
         },
         {
           "name": "C-programming",
-          "viewLink": "/C_programming_2023_pdf",  
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/C_programming_2023_pdf"
         }
       ],
       
       "sem3_2022": [
         {
           "name": "Mathematics-3",
-          "viewLink": "/Maths3_2022_aids_pdfs",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths3_2022_aids_pdfs"
         },
         {
           "name": "DS & GT",
-          "viewLink": "/DS_and_GT_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DS_and_GT_2022_pdfs_aids"
         },
         {
           "name": "DL&CA",
-          "viewLink": "/DL_and_CA_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DL_and_CA_2022_pdfs_aids"
         },
         {
           "name": "Data Structure",
-          "viewLink": "/DataStructure_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DataStructure_2022_pdfs_aids"
         }
       ],
       "sem3_2023": [
         {
           "name": "Mathematics-3",
-          "viewLink": "/Maths3_2023_aids_pdfs",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths3_2023_aids_pdfs"
         },
         {
           "name": "DS & GT",
-          "viewLink": "/DS_and_GT_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DS_and_GT_2023_pdfs_aids"
         },
         {
           "name": "DL&CA",
-          "viewLink": "/DL_and_CA_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DL_and_CA_2023_pdfs_aids"
         },
         {
           "name": "Data Structure",
-          "viewLink": "/DataStructure_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DataStructure_2023_pdfs_aids"
         }
       
       ]
@@ -200,142 +141,98 @@
       "sem4_2022": [
         {
           "name": "Analysis of algorithm",
-          "viewLink": "/AOA_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/AOA_2022_pdfs_aids"
         },
         {
           "name": "DBMS",
-          "viewLink": "/DBMS_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DBMS_2022_pdfs_aids"
         },
         {
           "name": "Maths-4",
-          "viewLink": "/Maths4_2022_aids_pdfs",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths4_2022_aids_pdfs"
         },
         {
           "name": "Microprocessor",
-          "viewLink": "/MP_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/MP_2022_pdfs_aids"
         },
         {
           "name": "Operating System",
-          "viewLink": "/OS_2022_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/OS_2022_pdfs_aids"
         }
       ],
       "sem4_2023": [
         {
           "name": "Analysis of algorithm",
-          "viewLink": "/AOA_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/AOA_2023_pdfs_aids"
         },
         {
           "name": "DBMS",
-          "viewLink": "/DBMS_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/DBMS_2023_pdfs_aids"
         },
         {
           "name": "Maths-4",
-          "viewLink": "/Maths4_2023_aids_pdfs",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/Maths4_2023_aids_pdfs"
         },
         {
           "name": "Microprocessor",
-          "viewLink": "/MP_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/MP_2023_pdfs_aids"
         },
         {
           "name": "Operating System",
-          "viewLink": "/OS_2023_pdfs_aids",
-          "downloadLink": "#",
-          "answersLink": "#"
+          "viewLink": "/OS_2023_pdfs_aids"
         }
       
       ],
       "sem5_2022": [
        {
          "name": "AI&DS",
-         "viewLink": "/AI_and_DS_2022_pdfs_aids",
-         "downloadLink": "#",
-         "answersLink": "#"
+         "viewLink": "/AI_and_DS_2022_pdfs_aids"
        },
        {
          "name": "Computer Network",
-         "viewLink": "/CN_2022_pdfs_aids",
-         "downloadLink": "#",
-         "answersLink": "#"
+         "viewLink": "/CN_2022_pdfs_aids"
        },
        {
          "name": "DW&M",
-         "viewLink": "/DW_and_M_2022_pdfs_aids",
-         "downloadLink": "#",
-         "answersLink": "#"
+         "viewLink": "/DW_and_M_2022_pdfs_aids"
        },
        {
          "name": "Ethical Hacking",
-         "viewLink": "/EH_2022_pdfs_aids",
-         "downloadLink": "#", 
-         "answersLink": "#"
+         "viewLink": "/EH_2022_pdfs_aids"
        },
        {
          "name": "Statistics",
-         "viewLink": "/Statis_2022_pdfs_aids",
-         "downloadLink": "#",
-         "answersLink": "#"
+         "viewLink": "/Statis_2022_pdfs_aids"
        },
        {
          "name": "Web computing",
-         "viewLink": "/WebComputing_2022_pdfs_aids",
-         "downloadLink": "#",
-         "answersLink": "#"
+         "viewLink": "/WebComputing_2022_pdfs_aids"
        }
      ],
      "sem5_2023": [
       {
         "name": "AI&DS",
-        "viewLink": "/AI_and_DS_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/AI_and_DS_2023_pdfs_aids"
       },
       {
         "name": "Computer Network",
-        "viewLink": "/CN_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/CN_2023_pdfs_aids"
       },
       {
         "name": "DW&M",
-        "viewLink": "/DW_and_M_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DW_and_M_2023_pdfs_aids"
       },
       {
         "name": "Ethical Hacking",
-        "viewLink": "/EH_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/EH_2023_pdfs_aids"
       },
       {
         "name": "Statistics",
-        "viewLink": "/Statis_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/Statis_2023_pdfs_aids"
       },
       {
         "name": "Web computing",
-        "viewLink": "/WebComputing_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/WebComputing_2023_pdfs_aids"
       }
      ]
      ,
@@ -343,77 +240,53 @@
      "sem6_2022": [
       {
         "name": "DA&V",
-        "viewLink": "/DA_and_V_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DA_and_V_2022_pdfs_aids"
       },
       {
         "name": "Digital_forensic",
-        "viewLink": "/DF_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DF_2022_pdfs_aids"
       },
       {
         "name": "I&VP",
-        "viewLink": "/IVP_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/IVP_2022_pdfs_aids"
       },
       {
         "name": "ML",
-        "viewLink": "/ML_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/ML_2022_pdfs_aids"
       },
       {
         "name": "SE&PM",
-        "viewLink": "/SEPM_2022_pfds_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/SEPM_2022_pfds_aids"
       },
       {
         "name": "C&SS",
-        "viewLink": "/CSS_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/CSS_2022_pdfs_aids"
       }
     ],
     "sem6_2023": [
       {
         "name": "DA&V",
-        "viewLink": "/DA_and_V_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DA_and_V_2023_pdfs_aids"
       },
       {
         "name": "Digital_forensic",
-        "viewLink": "/DF_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DF_2023_pdfs_aids"
       },
       {
         "name": "I&VP",
-        "viewLink": "/IVP_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/IVP_2023_pdfs_aids"
       },
       {
         "name": "ML",
-        "viewLink": "/ML_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/ML_2023_pdfs_aids"
       },
       {
         "name": "SE&PM",
-        "viewLink": "/SEPM_2023_pfds_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/SEPM_2023_pfds_aids"
       },
       {
         "name": "C&SS",
-        "viewLink": "/CSS_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/CSS_2023_pdfs_aids"
       }
     ]
     ,
@@ -421,153 +294,57 @@
     "sem7_2022": [
       {
         "name": "Big Data Analysis",
-        "viewLink": "/BDA_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/BDA_2022_pdfs_aids"
       },
       {
         "name": "Blockchin Technologies",
-        "viewLink": "/BT_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/BT_2022_pdfs_aids"
       },
       {
         "name": "Deep learning",
-        "viewLink": "/DL_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DL_2022_pdfs_aids"
       },
       {
         "name": "DM&MM",
-        "viewLink": "/DMMM_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DMMM_2022_pdfs_aids"
       },
       {
         "name": "GT FOR DS",
-        "viewLink": "/GtForDs_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/GtForDs_2022_pdfs_aids"
       },
       {
         "name": "NLP",
-        "viewLink": "/NLP_2022_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/NLP_2022_pdfs_aids"
       }
     ],
     "sem7_2023": [
       {
         "name": "Big Data Analysis",
-        "viewLink": "/BDA_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/BDA_2023_pdfs_aids"
       },
       {
         "name": "Blockchin Technologies",
-        "viewLink": "/BT_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/BT_2023_pdfs_aids"
       },
       {
         "name": "Deep learning",
-        "viewLink": "/DL_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DL_2023_pdfs_aids"
       },
       {
         "name": "DM&MM",
-        "viewLink": "/DMMM_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/DMMM_2023_pdfs_aids"
       },
       {
         "name": "GT FOR DS",
-        "viewLink": "/GtForDs_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/GtForDs_2023_pdfs_aids"
       },
       {
         "name": "NLP",
-        "viewLink": "/NLP_2023_pdfs_aids",
-        "downloadLink": "#",
-        "answersLink": "#"
+        "viewLink": "/NLP_2023_pdfs_aids"
       }
     ]
-    ,
-    "sem8_2022": [
-     {
-       "name": "Mathematics-2",
-       "viewLink": "/Maths2_2022_pdf",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "Physics-2",
-       "viewLink": "/Physics2_2022_pdf",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "Chemistry-2",
-       "viewLink": "/Chemistry2_2022_pdf",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "EG",
-       "viewLink": "/EG_2022_pdf",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "PCE-1",
-       "viewLink": "/PCE1_2022_pdf",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "C-programming",
-       "viewLink": "/C_programming_2022_pdf",
-       "downloadLink": "#",
-       "answersLink": "#"
-     }
-   ],
-   "sem8_2023": [
-     {
-       "name": "",
-       "viewLink": "#",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "Physics-1",
-       "viewLink": "#",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "Chemistry-1",
-       "viewLink": "#",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "Mechanics",
-       "viewLink": "#",
-       "downloadLink": "#",
-       "answersLink": "#"
-     },
-     {
-       "name": "BEE",
-       "viewLink": "#",
-       "downloadLink": "#",
-       "answersLink": "#"
-     }
    
-   ]
-   
-      
+  
       
     }
   }

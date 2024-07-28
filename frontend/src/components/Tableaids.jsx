@@ -13,8 +13,7 @@ function Tableaids() {
           </div>
         </td>
         <td className="text-blue-500"><a href={subject.viewLink}>View PDF</a></td>
-        <td className="text-blue-500"><a href={subject.downloadLink}>Download PDF</a></td>
-        <td><a href={subject.answersLink}>Answers</a></td>
+       
       </tr>
     ));
   };
@@ -32,8 +31,7 @@ function Tableaids() {
               <tr className="dark:text-white font-semibold">
                 <th>Subject</th>
                 <th>Access</th>
-                <th></th>
-                <th>Resources</th>
+               
               </tr>
             </thead>
             <tbody>
@@ -54,8 +52,7 @@ function Tableaids() {
               <tr className="dark:text-white font-semibold">
                 <th>Subject</th>
                 <th>Access</th>
-                <th></th>
-                <th>Resources</th>
+                
               </tr>
             </thead>
             <tbody>
@@ -79,8 +76,7 @@ function Tableaids() {
             <tr className="dark:text-white font-semibold">
               <th>Subject</th>
               <th>Access</th>
-              <th></th>
-              <th>Resources</th>
+             
             </tr>
           </thead>
           <tbody>
@@ -101,8 +97,7 @@ function Tableaids() {
             <tr className="dark:text-white font-semibold">
               <th>Subject</th>
               <th>Access</th>
-              <th></th>
-              <th>Resources</th>
+              
             </tr>
           </thead>
           <tbody>
@@ -126,8 +121,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -148,8 +142,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -173,8 +166,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                  
                                 </tr>
                             </thead>
                             <tbody>
@@ -195,8 +187,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -220,8 +211,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -242,8 +232,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+
                                 </tr>
                             </thead>
                             <tbody>
@@ -268,8 +257,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -290,8 +278,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -315,8 +302,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                  
                                 </tr>
                             </thead>
                             <tbody>
@@ -337,8 +323,7 @@ function Tableaids() {
                                 <tr className="dark:text-white font-semibold">
                                     <th>Subject</th>
                                     <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
@@ -350,51 +335,11 @@ function Tableaids() {
             </div>
 
 
-            <div className="flex flex-col md:flex-row">
-                {/* Semester 8 (2022) */}
-                <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
-                    <hr />
-                    <h1 className="text-center font-semibold text-2xl p-3">Semester 8 (2022) Previous Year Question Papers</h1>
-                    <hr />
-                    <div className="overflow-x-auto">
-                        <table className="table">
-                            <thead>
-                                <tr className="dark:text-white font-semibold">
-                                    <th>Subject</th>
-                                    <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {renderTableRows(semesters.sem8_2022)}
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
 
-                {/* Semester 8 (2023) */}
-                <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
-                    <hr />
-                    <h1 className="text-center font-semibold text-2xl p-3">Semester 8 (2023) Previous Year Question Papers</h1>
-                    <hr />
-                    <div className="overflow-x-auto">
-                        <table className="table">
-                            <thead>
-                                <tr className="dark:text-white font-semibold">
-                                    <th>Subject</th>
-                                    <th>Access</th>
-                                    <th></th>
-                                    <th>Resources</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {renderTableRows(semesters.sem8_2023)}
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
+
+
+
+       
            
   </>
   )
