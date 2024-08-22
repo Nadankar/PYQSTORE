@@ -13,10 +13,11 @@ function Ecs() {
          "Explore our collection of previous year question papers for <span className="text-blue-600">ECS Engineering</span> from 2022 and 2023. Equip yourself with essential resources to excel in your exams and gain a deeper understanding of your coursework."
          </p>
          <Link to="/">
-         <button className="bg-pink-600 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300 ease-in-out mt-5">Back
+         <button className="bg-pink-600 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300 ease-in-out mt-5">
+          Back
          </button>
          </Link>
-          </div>
+          </div> 
     </div>
     </>
   )

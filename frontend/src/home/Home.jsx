@@ -9,7 +9,7 @@ function Home() {
     <>
     
    <Navbar/>
-   <Banner/>
+   <Banner/>  
    <Branches/>
    <Footer/>
     </>

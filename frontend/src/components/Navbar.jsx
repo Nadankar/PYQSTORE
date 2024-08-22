@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Login from './Login';
 
+
 function Navbar() {
     const [theme,setTheme]=useState(
         localStorage.getItem("theme")? localStorage.getItem("theme"):"light"
@@ -58,15 +59,15 @@ function Navbar() {
                             tabIndex={0}
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
                             <li><a href="/">Home</a></li>
-                            <li><a href="/about">About</a></li>
-                            <li><a>Contact</a></li>
+                            <li><a >About</a></li> 
+                            <li><a href="/contact">Contact</a></li>
                             <li>
                                 <a>Banches</a>
                                 <ul className="p-2  dark:bg-slate-900 dark:text-white">
                                     <li><a href="/computer">Computer Engineering</a></li>
                                     <li><a href="/mechanical">Mechanical Engineering</a></li>
                                     <li><a href="/ecs">ECS</a></li>
-                                    <li><a href="ai&ds">AI&DS</a></li>
+                                    <li><a href="/ai&ds">AI&DS</a></li>
                                 </ul>
                             </li>
 
@@ -77,8 +78,8 @@ function Navbar() {
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 font-normal">
                         <li><a href="/">Home</a></li>
-                        <li><a>About</a></li>
-                        <li><a >Contact</a></li>
+                        <li><a >About</a></li>
+                        <li><a href='/contact'>Contact</a></li>
                         <li>
                             <details >
                                 <summary>Banches</summary>

@@ -1,18 +1,19 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import branches from "../../public/branches.json"
 import Cards from './Cards';
 
+
 function Branches() {
-    
-    let boxes=branches.filter((data)=>data);
+   
+    let boxes=branches.filter((data)=>data);  
     console.log(boxes);
 
     var settings = {
         dots: true,
-        infinite: false,
+        infinite: false, 
         speed: 500,
         slidesToShow: 3,
         slidesToScroll: 3,
@@ -32,7 +33,7 @@ function Branches() {
                 settings: {
                     slidesToShow: 2,
                     slidesToScroll: 2,
-                    initialSlide: 2
+                    initialSlide: 2   
                 }
             },
             {
@@ -49,14 +50,12 @@ function Branches() {
                 <div>
                     <h1 className=" text-2xl font-semibold">PYQs Offered:</h1>
                     <p>Discover a comprehensive collection of previous year question papers for various engineering branches. Access the resources you need to excel in your exams and boost your knowledge.</p>
-
-
                 </div>
                 <div>
                     <Slider {...settings}>
                         {
                             boxes.map((data)=>(
-                                <Cards data={data} key={data.id}/>
+                                <Cards data={data} key={data.id}/>    
                             ))
                         }
                     </Slider>
@@ -68,3 +67,9 @@ function Branches() {
 }
 
 export default Branches
+
+
+
+
+
+

@@ -12,6 +12,7 @@ function Maths1_2023_pdf() {
               <th></th>
               <th className="text-purple-700 font-medium">{math1_2023_pdf.subject}</th>
               <th className="text-purple-700 font-medium">Path</th>
+              <th className="text-purple-700 font-medium">Answer</th>
             </tr>
           </thead>
           <tbody>

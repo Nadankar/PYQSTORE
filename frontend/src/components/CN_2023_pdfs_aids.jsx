@@ -3,8 +3,9 @@ import cn_2023_pdfs_aids from "../Allpdf_json_file/cn_2023_pdf.json"
 
 export default function CN_2023_pdfs_aids() {
   return (
+    <>
     <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 mt-20 grid justify-center">
-    <div className="overflow-x-auto">
+    <div className="overflow-x-auto ">
       <table className="table  ">
         <thead>
           <tr>
@@ -29,5 +30,6 @@ export default function CN_2023_pdfs_aids() {
       </table>
     </div>
   </div>
+  </>
   )
 }

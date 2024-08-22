@@ -6,10 +6,7 @@ import MechBranch from "./allBranch/MechBranch"
 import EcsBranch from './allBranch/EcsBranch'
 import AidsBranch from "./allBranch/AidsBranch"
 import Signup from './components/Signup'
-
-// import Footer from "./components/Footer"
-
-
+import Contact from './components/Contact'
 
 
 
@@ -251,6 +248,8 @@ import OS_2022_pdfs_comp from './components/OS_2022_pdfs_comp'
 
 
 
+
+ 
 function App() {
   return (
    <>
@@ -262,6 +261,8 @@ function App() {
     <Route path="/ecs" element={<EcsBranch/>}/>
     <Route path="/ai&ds" element={<AidsBranch/>}/>
     <Route path="/signup" element={<Signup/>}/>
+    <Route path='/contact' element={<Contact/>}/>
+   
 
 
 

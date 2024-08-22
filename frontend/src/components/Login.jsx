@@ -3,6 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 function Login() {
+
     return (
         <div>
 
@@ -21,16 +22,18 @@ function Login() {
                     </div>
                     {/* Button */}
                     <div className="flex justify-around mt-6">
-                        <button className="bg-pink-600 px-4 py-2 text-white rounded-md hover:bg-pink-700 duration-200 ease-in-out">
+                            <button onClick={()=>alert("Login functionality is not available right now")} className="bg-pink-600 px-4 py-2 text-white rounded-md hover:bg-pink-700 duration-200 ease-in-out">
                             Login
-                        </button>                   
+                        </button>
+                    
+                        
                         <div className="my-2">
                             <span>Not registered?</span>
-                            <Link to="/signup" 
-                            className="text-blue-500 underline cursor-pointer ml-1">
-                                Signup 
+                            <Link to="/signup"
+                                className="text-blue-500 underline cursor-pointer ml-1">
+                                Signup
                             </Link >
-                         </div>
+                        </div>
                     </div>
                 </div>
 

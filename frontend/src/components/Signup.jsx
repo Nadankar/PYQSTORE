@@ -23,7 +23,7 @@ function Signup() {
                 </div>
                 <div>
                     <div className="flex  mt-6">
-                        <button className="bg-pink-600  px-4 py-2 text-white rounded-md hover:bg-pink-700 duration-200 ease-in-out">
+                        <button onClick={()=>alert("Login functionality is not available right now")} className="bg-pink-600  px-4 py-2 text-white rounded-md hover:bg-pink-700 duration-200 ease-in-out">
                             Signup
                         </button>
                     </div>

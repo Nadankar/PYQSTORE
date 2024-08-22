@@ -11,13 +11,14 @@ function Maths1_2022_pdf() {
               <th></th>
               <th className="text-purple-700 font-medium">{math1_2022_pdf.subject}</th>
               <th className="text-purple-700 font-medium">Path</th>
+              <th className="text-purple-700 font-medium">Answer</th>
             </tr>
           </thead>
           <tbody>
             {math1_2022_pdf.pdfs.map((pdf, index) => (
               <tr key={index}>
                 <th>{index + 1}</th>
-                <td>{pdf.pdfname}</td>
+                <td>{pdf.pdfname}</td> 
                 <td className="text-blue-400">
                   <a href={pdf.path} target="_blank" rel="noopener noreferrer">
                     {pdf.path}
