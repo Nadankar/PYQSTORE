@@ -6,13 +6,10 @@
         "pdfname": "sem2_2023_maths_june.pdf",
         "path": "public/assets/first_year_pyq/Engi_sem2_2023_maths_june.pdf"
       },
+    
       {
-        "pdfname": "sem1_2022_physics_dec.pdf",
-        "path": "public/assets/first_year_pyq/Engi_sem1_2023_physics_dec.pdf"
-      },
-      {
-        "pdfname": "sem1_2022_maths_dec.pdf",
-        "path": "public/assets/first_year_pyq/Engi_sem1_2022_maths_dec.pdf"
+        "pdfname": "sem1_2023_maths_dec.pdf",
+        "path": "public/assets/first_year_pyq/Engi_sem1_2023_maths_dec.pdf"
       }
-    ]
+    ]  
   }
