@@ -1,0 +1,14 @@
+
+{
+    "subject": "BEE",
+    "pdfs": [
+      {
+        "pdfname": "sem1_2023_BEE_dec.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_BEE_dec.pdf"
+      },
+      {
+        "pdfname": "sem1_2022_physics_dec.pdf",
+        "path": "public/assets/first_year_pyq/Engi_sem1_2023_physics_dec.pdf"
+      }
+    ]
+  }

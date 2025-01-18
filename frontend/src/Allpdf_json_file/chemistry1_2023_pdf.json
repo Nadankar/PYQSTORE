@@ -1,0 +1,18 @@
+
+{
+    "subject": "Chemistry-1",
+    "pdfs": [
+      {
+        "pdfname": "sem1_2023_chemistry_dec.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_chemistry_dec.pdf"
+      },
+      {
+        "pdfname": "sem1_2023_chemistry_feb.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_chemistry_feb.pdf"
+      },
+      {
+        "pdfname": "sem1_2023_chemistry_july.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_chemistry_july.pdf"
+      }
+    ]
+  }

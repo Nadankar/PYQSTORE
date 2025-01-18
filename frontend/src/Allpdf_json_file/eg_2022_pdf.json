@@ -1,0 +1,14 @@
+
+{
+    "subject": "EG",
+    "pdfs": [
+      {
+        "pdfname": "sem2_2022_EG_dece.pdf",
+        "path": "assets/first_year_pyq/Engi_sem2_2022_EG_dece.pdf"
+      },
+      {
+        "pdfname": "sem2_2022_EG_JULY.pdf",
+        "path": "assets/first_year_pyq/Engi_sem2_2022_EG_july.pdf"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "subject": "Mathematics-3",
+    "pdfs": [
+      {
+        "pdfname": "sem3_2023_maths3_may.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_maths3_may.pdf"
+      },
+      {
+        "pdfname": "sem3_2023_maths3_jan.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_maths3_jan.pdf"
+      },
+      {
+        "pdfname": "sem3_2023_maths3_may(DSE).pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_maths3_may(DSE).pdf"
+      },
+      {
+        "pdfname": "sem3_2023_maths3_nove.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_maths3_nove.pdf"
+      }
+    ]
+  }

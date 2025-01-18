@@ -1,0 +1,21 @@
+{
+    "subject": "Electronic Devices",
+    "pdfs": [
+      {
+        "pdfname": "sem3_2023_electronic devices_jan.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_electronic devices_jan.pdf"
+      },
+      {
+        "pdfname": "sem3_2023_electronic devices_may.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_electronic devices_may.pdf"
+      }
+      ,{
+        "pdfname": "sem3_2023_electronic devices_may(DSE).pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_electronic devices_may(DSE).pdf"
+      },
+      {
+        "pdfname": "sem3_2023_electronic devices_nove-dec.pdf",
+        "path": "assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_electronic devices_nove-dec.pdf"
+      }
+    ]
+  }

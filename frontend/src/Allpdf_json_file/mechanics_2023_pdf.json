@@ -1,0 +1,18 @@
+
+{
+    "subject": "Mechanics",
+    "pdfs": [
+      {
+        "pdfname": "sem1_2023_mechamics_Feb.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_mechamics_Feb.pdf"
+      },
+      {
+        "pdfname": "sem1_2023_mechanics_dec.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_mechanics_dec.pdf"
+      },
+      {
+        "pdfname": "sem1_2023_mechanics_july.pdf",
+        "path": "assets/first_year_pyq/Engi_sem1_2023_mechanics_july.pdf"
+      }
+    ]
+  }
