@@ -1,406 +1,273 @@
 {
-    "semesters": {
-      "sem1_2022": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "/Maths1_2022_pdf" 
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "/Physics1_2022_pdf"
-         
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2022_pdf"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "/Mechanics_2022_pdf"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "/BEE_2022_pdf"
-        } 
-      ],
-      "sem1_2023": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "/Maths1_2023_pdf"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "/Physics1_2023_pdf"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2023_pdf"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "/Mechanics_2023_pdf"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "/BEE_2023_pdf"
-        }
-      
-      ],
-       "sem2_2022": [
-        {
-          "name": "Mathematics-2",
-          "viewLink": "/Maths2_2022_pdf"
-        },
-        {
-          "name": "Physics-2",
-          "viewLink": "/Physics2_2022_pdf"
-        },
-        {
-          "name": "Chemistry-2",
-          "viewLink": "/Chemistry2_2022_pdf"
-        },
-        {
-          "name": "EG",
-          "viewLink": "/EG_2022_pdf"
-        },
-        {
-          "name": "PCE-1",
-          "viewLink": "/PCE1_2022_pdf"
-        },
-        {
-          "name": "C-programming",
-          "viewLink": "/C_programming_2022_pdf"
-        }
-      ],
-      "sem2_2023": [
-        {
-          "name": "Mathematics-2",
-          "viewLink": "/Maths2_2023_pdf"
-        },
-        {
-          "name": "Physics-2",
-          "viewLink": "/Physics2_2023_pdf"
-        },
-        {
-          "name": "Chemistry-2",
-          "viewLink": "/Chemistry2_2023_pdf"
-        },
-        {
-          "name": "EG",
-          "viewLink": "#"
-        },
-        {
-          "name": "PCE-1",
-          "viewLink": "/PCE1_2023_pdf"
-        },
-        {
-          "name": "C-programming",
-          "viewLink": "/C_programming_2023_pdf"
-        }
-      
-      ], "sem3_2022": [
-        {
-          "name": "Mathematics-3",
-          "viewLink": "/Maths3_2022_pdf"
-        },
-        {
-          "name": "DBMS",
-          "viewLink": "/DBMS_2022_pdf"
-        },
-        {
-          "name": "Digital electronics",
-          "viewLink": "/DE_2022_pdf"
-        },
-        {
-          "name": "DSA",
-          "viewLink": "/DSA_2022_pdf"
-        },
-        {
-          "name": "Electronic Devices",
-          "viewLink": "/ED_2022_pdf"
-        }
-      ],
-      "sem3_2023": [
-        {
-          "name": "Mathematics-3",
-          "viewLink": "/Maths3_2023_pdf"
-        },
-        {
-          "name": "DBMS",
-          "viewLink": "/DBMS_2023_pdf"
-        },
-        {
-          "name": "Digital electronics",
-          "viewLink": "/DE_2023_pdf"
-        },
-        {
-          "name": "DSA",
-          "viewLink": "/DSA_2023_pdf"
-        },
-        {
-          "name": "Electronic Devices",
-          "viewLink": "/ED_2023_pdf"
-        }
-      
-      ],
-      "sem4_2022": [
-        {
-          "name": "Mathematics-4",
-          "viewLink": "/Maths4_2022_pdf"
-        },
-        {
-          "name": "CAI",
-          "viewLink": "/CAI_2022_pdf"
-        },
-        {
-          "name": "DSAT",
-          "viewLink": "/DSAT_2022_pdf"
-        },
-        {
-          "name": "Electronic Circuit",
-          "viewLink": "/EC_2022_pdf"
-        },
-        {
-          "name": "MPMC",
-          "viewLink": "/MPMC_2022_pdf"
-        }
-      ],
-      "sem4_2023": [
-        {
-          "name": "Mathematics-4",
-          "viewLink": "/Maths4_2023_pdf"
-        },
-        {
-          "name": "CAI",
-          "viewLink": "/CAI_2023_pdf"
-        },
-        {
-          "name": "DSAT",
-          "viewLink": "/DSAT_2023_pdf"
-        },
-        {
-          "name": "Electronic Circuit",
-          "viewLink": "/EC_2023_pdf"
-        },
-        {
-          "name": "MPMC",
-          "viewLink": "/MPMC_2023_pdf"
-        }
-
-      ]
-      ,
-      "sem5_2022": [
-        {
-          "name": "AI&ML",
-          "viewLink": "/AI_and_ML_2022_pdf"
-        },
-        {
-          "name": "Communication Engineering",
-          "viewLink": "/CE_2022_pdf"
-        },
-        {
-          "name": "CO&A",
-          "viewLink": "/CO_and_A_2022_pdf"
-        },
-        {
-          "name": "Softeware Engineering",
-          "viewLink": "/SE_2022_pdf"
-        },
-        {
-          "name": "ST&QA",
-          "viewLink": "/ST_and_QA_2022_pdf"
-        },
-        {
-          "name": "Web technologies",
-          "viewLink": "/Web_technologies_2022_pdf"
-        }
-      ],
-      "sem5_2023": [
-        {
-          "name": "AI&ML",
-          "viewLink": "/AI_and_ML_2023_pdf"
-        },
-        {
-          "name": "Communication Engineering",
-          "viewLink": "/CE_2023_pdf"
-        },
-        {
-          "name": "CO&A",
-          "viewLink": "/CO_and_A_2023_pdf"
-        },
-        {
-          "name": "Softeware Engineering",
-          "viewLink": "/SE_2023_pdf"
-        },
-        {
-          "name": "ST&QA",
-          "viewLink": "/ST_and_QA_2023_pdf"
-        },
-        {
-          "name": "Web technologies",
-          "viewLink": "/Web_technologies_2023_pdf"
-        }
-      
-      ],
-      "sem6_2022": [
-        {
-          "name": "AI",
-          "viewLink": "/AI_2022_pdf"
-        },
-        {
-          "name": "Computer network",
-          "viewLink": "/CN_2022_pdf"
-        },
-        {
-          "name": "DW&M",
-          "viewLink": "/DW_and_M_2022_pdf"
-        },
-        {
-          "name": "ES&RTOS",
-          "viewLink": "/ES_and_RTOS_2022_pdf"
-        },
-        {
-          "name": "Digital forensic",
-          "viewLink": "/DigitalForensic_2022_pdf"
-        }
-        ,{
-          "name": "ML",
-          "viewLink": "/ML_2022_pdf"
-        }
-      ],
-      "sem6_2023": [
-        {
-          "name": "AI",
-          "viewLink": "/AI_2023_pdf"
-        },
-        {
-          "name": "Computer network",
-          "viewLink": "/CN_2023_pdf"
-        },
-        {
-          "name": "DW&M",
-          "viewLink": "/DW_and_M_2023_pdf"
-        },
-        {
-          "name": "ES&RTOS",
-          "viewLink": "/ES_and_RTOS_2022_pdf"
-        },
-        {
-          "name": "Digital forensic",
-          "viewLink": "/DigitalForensic_2023_pdf"
-        }
-        ,{
-          "name": "ML",
-          "viewLink": "/ML_2023_pdf"
-        }
-      
-      ],
-      "sem7_2022": [
-        {
-          "name": "Big data analytics",
-          "viewLink": "/BigdataAnalytics_2022_pdf"
-        },
-        {
-          "name": "Cloud computing",
-          "viewLink": "/CloudComputing_2022_pdf"
-        },
-        {
-          "name": "Cyber security",
-          "viewLink": "/CyberSecurity_2022_pdf"
-        },
-        {
-          "name": "Deep learning",
-          "viewLink": "/DeepLearning_2022_pdf"
-        },
-        {
-          "name": "DM_and_MM",
-          "viewLink": "/DM_and_MM_2022_pdf"
-        },
-        {
-          "name": "Internet of things",
-          "viewLink": "/InternetOfThings_2022_pdf"
-        },
-        {
-          "name": "VLSI design",
-          "viewLink": "/VLSI_design_2022_pdf"
-        }
-      ],
-      "sem7_2023": [
-        {
-          "name": "Big data analytics",
-          "viewLink": "/BigdataAnalytics_2023_pdf"
-        },
-        {
-          "name": "Cloud computing",
-          "viewLink": "/CloudComputing_2023_pdf"  
-        },
-        {
-          "name": "Cyber security",
-          "viewLink": "/CyberSecurity_2023_pdf"
-        },
-        {
-          "name": "Deep learning",
-          "viewLink": "/DeepLearning_2023_pdf"
-        },
-        {
-          "name": "DM_and_MM",
-          "viewLink": "/DM_and_MM_2023_pdf"
-        },
-        {
-          "name": "Internet of things",
-          "viewLink": "/InternetOfThings_2023_pdf"
-        },
-        {
-          "name": "VLSI design",
-          "viewLink": "/VLSI_design_2023_pdf"
-        }
-      ],
-      "sem8_2022": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "#"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "#"
-        }
-      ],
-      "sem8_2023": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "#"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "#"
-        }
-        
-      
-      ]
-    }
+  "semesters": {
+    "sem1_2022": [
+      {
+        "name": "Chemistry-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2022_chemistry_june.pdf"
+      },
+      {
+        "name": "Mechanics",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2022_mechanics_june.pdf"
+      }
+    ],
+    "sem1_2023": [
+      {
+        "name": "Mathematics-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_maths_dec.pdf"
+      },
+      {
+        "name": "Physics-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_physics_dec.pdf"
+      },
+      {
+        "name": "Chemistry-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_chemistry_dec.pdf"
+      },
+      {
+        "name": "Mechanics",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_mechanics_dec.pdf"
+      },
+      {
+        "name": "BEE",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_BEE_dec.pdf"
+      }
+    ],
+    "sem2_2022": [
+      {
+        "name": "Mathematics-2",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2022_maths_june.pdf"
+      },
+      {
+        "name": "Physics-2",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2022_physics-2_dec.pdf"
+      },
+      {
+        "name": "Chemistry-2",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2022_chemistry-2_dece.pdf"
+      },
+      {
+        "name": "EG",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2022_EG_dece.pdf"
+      },
+      {
+        "name": "PCE-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2022_PCE-1_dece.pdf"
+      },
+      {
+        "name": "C-programming",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2022_C-progrmming_dece.pdf"
+      }
+    ],
+    "sem2_2023": [
+      {
+        "name": "Mathematics-2",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2023_maths_june.pdf"
+      },
+      {
+        "name": "Physics-2",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2023_physics-2_dece.pdf"
+      },
+      {
+        "name": "Chemistry-2",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2023_chemistry-2_dece.pdf"
+      },
+      {
+        "name": "PCE-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2023_PCE_dece.pdf"
+      },
+      {
+        "name": "C-programming",
+        "viewLink": "/assets/first_year_pyq/Engi_sem2_2023_c- programming_dece.pdf"
+      }
+    ],
+    "sem3_2022": [
+      {
+        "name": "Mathematics-3",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2022_maths3_nove.pdf"
+      },
+      {
+        "name": "DBMS",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2022_dbms_nove-dec.pdf"
+      },
+      {
+        "name": "Digital electronics",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2022_digital electronics_nove.pdf"
+      },
+      {
+        "name": "DSA",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2022_DSA_nove.pdf"
+      },
+      {
+        "name": "Electronic Devices",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2022_electronic devices_nove.pdf"
+      }
+    ],
+    "sem3_2023": [
+      {
+        "name": "Mathematics-3",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_maths3_nove.pdf"
+      },
+      {
+        "name": "DBMS",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_dbms_nove.pdf"
+      },
+      {
+        "name": "Digital electronics",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_digital electronics_nove-dec.pdf"
+      },
+      {
+        "name": "DSA",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_DSA_nove.pdf"
+      },
+      {
+        "name": "Electronic Devices",
+        "viewLink": "/assets/ecs/ecs_pyq_sem3_2023/ecs_sem3_2023_electronic devices_nove-dec.pdf"
+      }
+    ],
+    "sem4_2022": [
+      {
+        "name": "Mathematics-4",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2022/ecs_sem4_2022_maths4_may.pdf"
+      },
+      {
+        "name": "CAI",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2022/ecs_sem4_2022_controls and instrumentation_dec.pdf"
+      },
+      {
+        "name": "DSAT",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2022/ecs_sem4_2022_DSAT_dec.pdf"
+      },
+      {
+        "name": "Electronic Circuit",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2022/ecs_sem4_2022_electronic circuit_dec.pdf"
+      },
+      {
+        "name": "MPMC",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2022/ecs_sem4_2022_mpmc_dec.pdf"
+      }
+    ],
+    "sem4_2023": [
+      {
+        "name": "Mathematics-4",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2023/ecs_sem4_2023_maths4_dec.pdf"
+      },
+      {
+        "name": "CAI",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2023/ecs_sem4_2023_controls and instrumentation_dec.pdf"
+      },
+      {
+        "name": "DSAT",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2023/ecs_sem4_2023_DSAT_dec.pdf"
+      },
+      {
+        "name": "Electronic Circuit",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2023/ecs_sem4_2023_electronic circuit_dec.pdf"
+      },
+      {
+        "name": "MPMC",
+        "viewLink": "/assets/ecs/ecs_pyq_sem4_2023/ecs_sem4_2023_mpmc_dec.pdf"
+      }
+    ],
+    "sem5_2022": [
+      {
+        "name": "CO&A",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2022/ecs_sem4_2022_computer organozartion & architecture_nove.pdf"
+      },
+      {
+        "name": "Softeware Engineering",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2022/ecs_sem4_2022_software engineering_nove.pdf"
+      },
+      {
+        "name": "ST&QA",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2022/ecs_sem4_2022_ST&QA_dec.pdf"
+      },
+      {
+        "name": "Web technologies",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2022/ecs_sem4_2022_web technolgies_nove.pdf"
+      }
+    ],
+    "sem5_2023": [
+      {
+        "name": "AI&ML",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2023/ecs_sem5_2023_AI&ML_dece.pdf"
+      },
+      {
+        "name": "Communication Engineering",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2023/ecs_sem5_2023_communication engineering_nove.pdf"
+      },
+      {
+        "name": "CO&A",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2023/ecs_sem5_2023_computer organisation & architecture_nove.pdf"
+      },
+      {
+        "name": "Softeware Engineering",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2023/ecs_sem5_2023_software engineering_nove.pdf"
+      },
+      {
+        "name": "ST&QA",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2023/ecs_sem5_2023_ST&QA_dece.pdf"
+      },
+      {
+        "name": "Web technologies",
+        "viewLink": "/assets/ecs/ecs_pyq_sem5_2023/ecs_sem5_2023_web technologies_nove.pdf"
+      }
+    ],
+    "sem6_2023": [
+      {
+        "name": "AI",
+        "viewLink": "/assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_artifical intelligence_may.pdf"
+      },
+      {
+        "name": "Computer network",
+        "viewLink": "/assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_computer network_dec.pdf"
+      },
+      {
+        "name": "DW&M",
+        "viewLink": "/assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_data warehousing and mining_may.pdf"
+      },
+      {
+        "name": "ES&RTOS",
+        "viewLink": "/assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_Embedded systems and RTOS_may.pdf"
+      },
+      {
+        "name": "Digital forensic",
+        "viewLink": "/assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_honours minor degree programs digital forensic_may.pdf"
+      },
+      {
+        "name": "ML",
+        "viewLink": "/assets/ecs/ecs_pyq_sem6_2023/ecs_sem6_2023_machine learning_dec.pdf"
+      }
+    ],
+    "sem7_2023": [
+      {
+        "name": "Big data analytics",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_big data analytics_dece.pdf"
+      },
+      {
+        "name": "Cloud computing",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_cloud computing_nove.pdf"
+      },
+      {
+        "name": "Cyber security",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_cyber security and laws_dece.pdf"
+      },
+      {
+        "name": "Deep learning",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_deep learning_dece.pdf"
+      },
+      {
+        "name": "DM_and_MM",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_disaster management & mitigation measures_dece.pdf"
+      },
+      {
+        "name": "Internet of things",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_internet of things_dece.pdf"
+      },
+      {
+        "name": "VLSI design",
+        "viewLink": "/assets/ecs/ecs_pyq_sem7_2023/ecs_sem7_2023_VLSI design_dece.pdf"
+      }
+    ]
+    
   }
-  
+}

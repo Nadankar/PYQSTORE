@@ -1,393 +1,268 @@
 {
-    "semesters": {
-      "sem1_2022": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "/Maths1_2022_pdf"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "/Physics1_2022_pdf"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2022_pdf"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "/Mechanics_2022_pdf"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "/BEE_2022_pdf"
-        }
-      ],
-      "sem1_2023": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "/Maths1_2023_pdf"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "/Physics1_2023_pdf"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "/Chemistry1_2023_pdf"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "/Mechanics_2023_pdf"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "/BEE_2023_pdf"
-        }
-      
-      ],
-       "sem2_2022": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "#"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "#"
-        }
-      ],
-      "sem2_2023": [
-        {
-          "name": "Mathematics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Physics-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Chemistry-1",
-          "viewLink": "#"
-        },
-        {
-          "name": "Mechanics",
-          "viewLink": "#"
-        },
-        {
-          "name": "BEE",
-          "viewLink": "#"
-        }
-      
-      ]
-      ,
-      "sem3_2022": [
-        {
-          "name": "Mathematics-3",
-          "viewLink": "/Maths3_2022_pdfs_mech"
-        },
-        {
-          "name": "Strength of materials",
-          "viewLink": "/SOM_2022_pdfs_mech"
-        },
-        {
-          "name": "Production process",
-          "viewLink": "/PP_2022_pdfs_mech"
-        },
-        {
-          "name": "Material metallergy",
-          "viewLink": "/MM_2022_pdfs_mech"
-        },
-        {
-          "name": "Thermodynamics",
-          "viewLink": "/Thermo_2022_pdfs_mech"
-        }
-      ],
-      "sem3_2023": [
-        {
-          "name": "Mathematics-3",
-          "viewLink": "/Maths3_2023_pdfs_mech"
-        },
-        {
-          "name": "Strength of materials",
-          "viewLink": "/SOM_2023_pdfs_mech"
-        },
-        {
-          "name": "Production process",
-          "viewLink": "/PP_2023_pdfs_mech"
-        },
-        {
-          "name": "Material metallergy",
-          "viewLink": "/MM_2023_pdfs_mech"
-        },
-        {
-          "name": "Thermodynamics",
-          "viewLink": "/Thermo_2022_pdfs_mech"
-        }
-      
-      ]
-      ,
-      
-      "sem4_2022": [
-        {
-          "name": "Mathematics-4",
-          "viewLink": "/Maths4_2022_pdfs_mech"
-        },
-        {
-          "name": "Fluid mechanics",
-          "viewLink": "/FM_2022_pdfs_mech"
-        },
-        {
-          "name": "Kinamatics of machinery",
-          "viewLink": "/KOM_2022_pdfs_mech"
-        },
-        {
-          "name": "CAD/CAM",
-          "viewLink": "/CAD_2022_pdfs_mech"
-        },
-        {
-          "name": "Industrial electronics",
-          "viewLink": "/IE_2022_pdfs_mech"
-        }
-      ],
-      "sem4_2023": [
-        {
-          "name": "Mathematics-4",
-          "viewLink": "/Maths4_2023_pdfs_mech"
-        },
-        {
-          "name": "Fluid mechanics",
-          "viewLink": "/FM_2023_pdfs_mech"
-        },
-        {
-          "name": "Kinamatics of machinery",
-          "viewLink": "/KOM_2023_pdfs_mech"
-        },
-        {
-          "name": "CAD/CAM",
-          "viewLink": "/CAD_2023_pdfs_mech"
-        },
-        {
-          "name": "Industrial electronics",
-          "viewLink": "/IE_2023_pdfs_mech"
-        }
-      ],
-      "sem5_2022": [
-       {
-         "name": "MM&C",
-         "viewLink": "/MMC_2022_pdfs_mech"
-       },
-       {
-         "name": "Thermal Engineering",
-         "viewLink": "/TE_2022_pdfs_mech"
-       },
-       {
-         "name": "Dynamics of machinery",
-         "viewLink": "/DOM_2022_pdfs_mech"
-       },
-       {
-         "name": "Statical technique",
-         "viewLink": "/ST_2022_pdfs_mech"
-       },
-       {
-         "name": "VS&D",
-         "viewLink": "/VSD_2022_pdfs_mech"
-       },
-       {
-         "name": "Finite element analysis",
-         "viewLink": "/FEA_2022_pdfs_mech"
-       }
-     ],
-     "sem5_2023": [
+  "semesters": {
+    "sem1_2022": [
+      {
+        "name": "Chemistry-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2022_chemistry_june.pdf"
+      },
+      {
+        "name": "Mechanics",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2022_mechanics_june.pdf"
+      }
+    ],
+    "sem1_2023": [
+      {
+        "name": "Mathematics-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_maths_dec.pdf"
+      },
+      {
+        "name": "Physics-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_physics_dec.pdf"
+      },
+      {
+        "name": "Chemistry-1",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_chemistry_dec.pdf"
+      },
+      {
+        "name": "Mechanics",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_mechanics_dec.pdf"
+      },
+      {
+        "name": "BEE",
+        "viewLink": "/assets/first_year_pyq/Engi_sem1_2023_BEE_dec.pdf"
+      }
+    ],
+    "sem3_2022": [
+      {
+        "name": "Mathematics-3",
+        "viewLink": "/assets/mech/mechanical_pyq_sem3_2022/mechanical_sem3_2022_maths-3_nove.pdf"
+      },
+      {
+        "name": "Strength of materials",
+        "viewLink": "/assets/mech/mechanical_pyq_sem3_2022/mechanical_sem3_2022_strength of materials_nove.pdf"
+      },
+      {
+        "name": "Production process",
+        "viewLink": "/assets/mech/mechanical_pyq_sem3_2022/mechanical_sem3_2022_production process_nove.pdf"
+      },
+      {
+        "name": "Material metallergy",
+        "viewLink": "/assets/mech/mechanical_pyq_sem3_2022/mechanical_sem3_2022_material metallargy_nove.pdf"
+      },
+      {
+        "name": "Thermodynamics",
+        "viewLink": "/assets/mech/mechanical_pyq_sem3_2022/mechanical_sem3_2022_thermodynamics_nove.pdf"
+      }
+    ],
+    "sem3_2023": [
+      {
+        "name": "Mathematics-3",
+        "viewLink": "/assets/mech/mechanical_pyqs_sem3_2023/Mechanical_sem3_2023_mathss-3_nove.pdf"
+      },
+      {
+        "name": "Strength of materials",
+        "viewLink": "/assets/mech/mechanical_pyqs_sem3_2023/mechanical_sem3_2023_strength-of-material_nove.pdf"
+      },
+      {
+        "name": "Production process",
+        "viewLink": "/assets/mech/mechanical_pyqs_sem3_2023/mechanical_sem3_2023_production process_nove.pdf"
+      },
+      {
+        "name": "Material metallergy",
+        "viewLink": "/assets/mech/mechanical_pyqs_sem3_2023/mechanical_sem3_2023_material metallargy_nove.pdf"
+      },
+      {
+        "name": "Thermodynamics",
+        "viewLink": "/assets/mech/mechanical_pyqs_sem3_2023/mechanical_sem3_2023_thermodynamics_nove.pdf"
+      }
+    ],
+    "sem4_2022": [
+      {
+        "name": "Mathematics-4",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2022/mechanical_sem4_2022_maths4_dece.pdf"
+      },
+      {
+        "name": "Fluid mechanics",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2022/mechanical_sem4_2022_fluid mechanics_dece.pdf"
+      },
+      {
+        "name": "Kinamatics of machinery",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2022/mechanical_sem4_2022_kinematics of machinery_dece.pdf"
+      },
+      {
+        "name": "CAD/CAM",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2022/mechanical_sem4_2022_CAD_dece.pdf"
+      },
+      {
+        "name": "Industrial electronics",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2022/mechanical_sem4_2022_industrial electronics_dece.pdf"
+      }
+    ],
+    "sem4_2023": [
+      {
+        "name": "Mathematics-4",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_maths4_dece.pdf"
+      },
+      {
+        "name": "Fluid mechanics",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_fluid mechanics_dece.pdf"
+      },
+      {
+        "name": "Kinamatics of machinery",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_kinamatics of machinery_dece.pdf"
+      },
+      {
+        "name": "CAD/CAM",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_CAD-CAM_dece.pdf"
+      },
+      {
+        "name": "Industrial electronics",
+        "viewLink": "/assets/mech/mechanical_pyq_sem4_2023/mechanical_sem4_2023_instrial electronics_dece.pdf"
+      }
+    ],
+    "sem5_2022": [
       {
         "name": "MM&C",
-        "viewLink": "/MMC_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2022/mechanical_sem5_2022_mechanical measurement and controls_nove.pdf"
       },
       {
         "name": "Thermal Engineering",
-        "viewLink": "/TE_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2022/mechanical_sem5_2023_thermal engineering_nove.pdf"
       },
       {
         "name": "Dynamics of machinery",
-        "viewLink": "/DOM_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2022/mechanical_sem5_2022_dynamics of machinery s_nove.pdf"
       },
       {
         "name": "Statical technique",
-        "viewLink": "/ST_2023_pdfs_mech"
-      },
-      {
-        "name": "VS&D",
-        "viewLink": "/VSD_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2022/mechanical_sem5_2022_statastical techniques_nove.pdf"
       },
       {
         "name": "Finite element analysis",
-        "viewLink": "/FEA_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2022/mechanical_sem5_2022_finite element analysis_nove.pdf"
       }
-     
-     ]
-     ,
-     
-     "sem6_2022": [
+    ],
+    "sem5_2023": [
+      {
+        "name": "MM&C",
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2023/mechanical_sem5_2023_mechanical measurement and controls_nove.pdf"
+      },
+      {
+        "name": "Thermal Engineering",
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2023/mechanical_sem5_2023_thermal engineering _nove.pdf"
+      },
+      {
+        "name": "Dynamics of machinery",
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2023/mechanical_sem5_2023_dynamics of machinery_nove.pdf"
+      },
+      {
+        "name": "Statical technique",
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2023/mechanical_sem5_2023_statistical techniques_nove.pdf"
+      },
+      {
+        "name": "VS&D",
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2023/mechanical_sem5_2023_vehicular sysems and dynamics_nove.pdf"
+      },
+      {
+        "name": "Finite element analysis",
+        "viewLink": "/assets/mech/mechanical_pyq_sem5_2023/mechanical_sem5_2023_finite element analysis_nove.pdf"
+      }
+    ],
+    "sem6_2022": [
       {
         "name": "HVAR",
-        "viewLink": "/HVAR_2022_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2022_HVAR_dece.pdf"
       },
       {
         "name": "Atomata&AI",
-        "viewLink": "/AAI_2022_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2022_Atomata and AI_dece.pdf"
       },
       {
         "name": "Metal farming Technique",
-        "viewLink": "/MFT_2022_pdfs_mech"
-      },
-      {
-        "name": "EV drive & energy sources",
-        "viewLink": "/EVDES_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2022_metal forming technology_may.pdf"
       },
       {
         "name": "Machine design",
-        "viewLink": "/MD_2022_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2022_machine design_dece.pdf"
       },
       {
         "name": "Tarbo machinery",
-        "viewLink": "/TM_2022_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2022_tarbo machinery_dece.pdf"
       }
     ],
-       
     "sem6_2023": [
       {
         "name": "HVAR",
-        "viewLink":"/HVAR_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2023_HVAR_dece.pdf"
       },
       {
         "name": "Atomata&AI",
-        "viewLink": "/AAI_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2023_Atomata and AI_dece.pdf"
       },
       {
         "name": "Metal farming Technique",
-        "viewLink": "/MFT_2022_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2023_metal forming technology_dece.pdf"
       },
       {
         "name": "EV drive & energy sources",
-        "viewLink": "/EVDES_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2023_EV drive and energy sources_dece.pdf"
       },
       {
         "name": "Machine design",
-        "viewLink": "/MD_2023_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2023_machine design_dece.pdf"
       },
       {
         "name": "Tarbo machinery",
-        "viewLink": "/TM_2022_pdfs_mech"
+        "viewLink": "/assets/mech/mechanical_pyq_sem6_2023/mechanical_sem6_2023_tarbo machinery_dece.pdf"
       }
-    ],     
-    "sem7_2022": [
-     {
-       "name": "Design of mechanical systems ",
-       "viewLink": "/DMS_2022_pdfs_mech"
-     },
-     {
-       "name": "Logistics and supply chain management",
-       "viewLink": "/LSCM_2022_pdfs_mech"
-     },
-     {
-       "name": "Vehicle system",
-       "viewLink": "/VS_2022_pdfs_mech"
-     },
-     {
-       "name": "Automotive power supply",
-       "viewLink": "/APS_2022_pdfs_mech"
-     },
-     {
-       "name": "Renewable energy system",
-       "viewLink": "/RES_2022_pdfs_mech"
-     }
-   ],     
-   "sem7_2023": [
-    {
-      "name": "Design of mechanical systems ",
-      "viewLink": "/DMS_2023_pdfs_mech"
-    },
-    {
-      "name": "Logistics and supply chain management",
-      "viewLink": "/LSCM_2023_pdfs_mech"
-    },
-    {
-      "name": "Vehicle system",
-      "viewLink": "/VS_2023_pdfs_mech"
-    },
-    {
-      "name": "Automotive power supply",
-      "viewLink": "/APS_2023_pdfs_mech"
-    },
-    {
-      "name": "Renewable energy system",
-      "viewLink": "/RES_2023_pdfs_mech"
-    }
-  ],
-     
-    
-    "sem8_2022": [
-     {
-       "name": "Smart materials",
-       "viewLink": "/SM_2022_pdfs_mech"
-     },
-     {
-       "name": "Power engineering",
-       "viewLink": "/PE_2022_pdfs_mech"
-     },
-     {
-       "name": "Project management",
-       "viewLink": "/PM_2022_pdfs_mech"
-     },
-     {
-       "name": "Environmental management",
-       "viewLink": "/EM_2022_pdfs_mech"
-     },
-     {
-       "name": "Design of mechanical system",
-       "viewLink": "/DOMS_2022_pdfs_mech"
-     },
-     {
-       "name": "Operations pluming & control",
-       "viewLink": "/OPC_2022_pdfs_mech"
-     }
-   ],
-   "sem8_2023": [
-    {
-      "name": "Smart materials",
-      "viewLink": "/SM_2023_pdfs_mech"
-    },
-    {
-      "name": "Power engineering",
-      "viewLink": "/PE_2023_pdfs_mech"
-    },
-    {
-      "name": "Project management",
-      "viewLink": "/PM_2023_pdfs_mech"
-    },
-    {
-      "name": "Environmental management",
-      "viewLink": "/EM_2023_pdfs_mech"
-    },
-    {
-      "name": "Design of mechanical system",
-      "viewLink": "/DOMS_2023_pdfs_mech"
-    },
-    {
-      "name": "Operations pluming & control",
-      "viewLink": "/OPC_2023_pdfs_mech"
-    }
+    ],
+    "sem7_2023": [
+      {
+        "name": "Design of mechanical systems ",
+        "viewLink": "/assets/mech/mechanical_pyq_sem7_2023/mechanical_sem7_2023_design of mechanical systems_dec.pdf"
+      },
+      {
+        "name": "Logistics and supply chain management",
+        "viewLink": "/assets/mech/mechanical_pyq_sem7_2023/mechanical_sem7_2023_logistics and supply clain management_dec.pdf"
+      },
+      {
+        "name": "Vehicle system",
+        "viewLink": "/assets/mech/mechanical_pyq_sem7_2023/mechanical_sem7_2023_vehicle systems_dec.pdf"
+      },
+      {
+        "name": "Automotive power supply",
+        "viewLink": "/assets/mech/mechanical_pyq_sem7_2023/mechanical_sem7_2023_Automotive power systems_dec.pdf"
+      },
+      {
+        "name": "Renewable energy system",
+        "viewLink": "/assets/mech/mechanical_pyq_sem7_2023/mechanical_sem7_2023_renewable energy systems_dec.pdf"
+      }
+    ],
+    "sem8_2023": [
+      {
+        "name": "Smart materials",
+        "viewLink": "/assets/mech/mechanical_pyq_sem8_2023/mechanical_sem8_2023_smart materials_dec.pdf"
+      },
+      {
+        "name": "Power engineering",
+        "viewLink": "/assets/mech/mechanical_pyq_sem8_2023/mechanical_sem8_2023_power engineering_nove.pdf"
+      },
+      {
+        "name": "Project management",
+        "viewLink": "/assets/mech/mechanical_pyq_sem8_2023/mechanical_sem8_2023_project management_may.pdf"
+      },
+      {
+        "name": "Environmental management",
+        "viewLink": "/assets/mech/mechanical_pyq_sem8_2023/mechanical_sem8_2023_environmental management_may.pdf"
+      },
+      {
+        "name": "Design of mechanical system",
+        "viewLink": "/assets/mech/mechanical_pyq_sem8_2023/mechanical_sem8_2023_design mechanical system_nove.pdf"
+      },
+      { 
+        "name": "Operations pluming & control",
+        "viewLink": "/assets/mech/mechanical_pyq_sem8_2023/mechanical_sem8_2023_operations planning and control_may.pdf"
+      }
     ]
-    }
   }
-  
+}
